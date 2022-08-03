@@ -37,88 +37,76 @@
       "language": "Java"
     },
     {
-      "id": 378749135,
-      "name": "app-repositories",
+      "id": 520916479,
+      "name": "Repositories_App",
       "owner": {
-        "login": "Diogo Nonato",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
+        "login": "Dixel9",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/app-repositories",
-      "description": "empty description",
-      "stargazers_count": 2,
+      "html_url": "https://github.com/Dixel9/Repositories_App",
+      "description": "O aplicativo foi criado com o intuito de listar os repositórios do Github afim de facilitar o acesso aos mesmos.",
+      "stargazers_count": 0,
       "language": "Kotlin"
     },
     {
-      "id": 63367755,
-      "name": "avaliacao-ios",
+      "id": 504591192,
+      "name": "Traffic_Control_Advertising_-_Website",
       "owner": {
-        "login": "Diogo Nonato",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
+        "login": "Dixel9",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios",
-      "description": "empty description",
-      "stargazers_count": 3,
-      "language": "Objective-C"
+      "html_url": "https://github.com/Dixel9/Traffic_Control_Advertising_-_Website",
+      "description": "te web site totalmente responsivo foi desenvolvido para a empresa Traffic Control Advertising, especializado em estratégias Multi-channel sediado em Jacksonville Jacksonville Flórida - EUA.\n\nFui responsável pela Arquitetura da Informação, , UI/UX Design, e desenvolvimento Frontend e uma pequena camada da stack Backend como collections usando a tecnologia de CMS. Para o seu desenvolvimento foram criados Wireframe de baixa fidelidade, seu Design System, Protótipo e o próprio site em sí.\n\nFrameworks e bibliotecas usadas: HTML5, CSS3, JAVASCRIPT e JQUERY.\n\nIDE´s usados: Axure, Photoshop, Illustrator, Figma, Webflow e VSCode.",
+      "stargazers_count": 0,
+      "language": "CSS, HTML"
     },
     {
-      "id": 63448974,
-      "name": "avaliacao-ios-manual",
+      "id": 475637682,
+      "name": "Inteface_Instagram",
       "owner": {
-        "login": "Diogo Nonato",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
+        "login": "Dixel9",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios-manual",
-      "description": "empty description",
-      "stargazers_count": 7,
-      "language": "Objective-C"
+      "html_url": "https://github.com/Dixel9/inteface_Instagram",
+      "description": "Esse é um clone de versão antiga da home da Interface da Netflix.\nPara a construção foram somente usados HTML5, CSS3.\nImpressionante como pode ser feito com poucos frameworks!",
+      "stargazers_count": 0,
+      "language": "CSS, HTML"
     },
     {
-      "id": 263680765,
-      "name": "base-redcode",
+      "id": 475647739,
+      "name": "Interface_Netflix",
       "owner": {
-        "login": "Diogo Nonato",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
+        "login": "Dixel9",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/base-redcode",
-      "description": "empty description",
-      "stargazers_count": 1,
-      "language": "Empty"
+      "html_url": "https://github.com/Dixel9/interface_netflix",
+      "description": "Esse é um clone de versão anterior da Interface da Netflix.\nPara a construção foram usados HTML5, CSS3, JQUERY e JAVASCRIPT.",
+      "stargazers_count": 0,
+      "language": "HTML, CSS, Javascript"
     },
     {
-      "id": 183948239,
-      "name": "BaseJetpack",
+      "id": 475648127,
+      "name": "Jogo_de_Naves",
       "owner": {
-        "login": "Diogo Nonato",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
+        "login": "Dixel9",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/BaseJetpack",
-      "description": "Examples with Jetpack components",
-      "stargazers_count": 2,
-      "language": "Kotlin"
+      "html_url": "https://github.com/Dixel9/jogo_de_naves",
+      "description": "Esse é um jogo de naves, 2D aonde é necessário além de salvar o soldado, que você também destrua os helicópteros e caminhões inimigos.\n\nPara a construção foram usados HTML5, CSS3, JQUERY e JAVASCRIPT.",
+      "stargazers_count": 0,
+      "language": "Javascript, CSS, HTML"
     },
     {
-      "id": 265040807,
-      "name": "Chuck-Norris-Facts",
+      "id": 475648493,
+      "name": "Snake_Game",
       "owner": {
-        "login": "Diogo Nonato",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
+        "login": "Dixel9",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/Chuck-Norris-Facts",
-      "description": "An Android client for the Chuck Norris facts API",
-      "stargazers_count": 5,
-      "language": "Kotlin"
-    },
-    {
-      "id": 369822554,
-      "name": "coin-converter",
-      "owner": {
-        "login": "Diogo Nonato",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/coin-converter",
-      "description": "empty description",
-      "stargazers_count": 1,
-      "language": "Kotlin"
+      "html_url": "https://github.com/Dixel9/snake_game",
+      "description": "Este é o jogo da cobrinha baseado no jogo lançado pela NOKIA em 1997 no então novo modelo 6110.\nPara a construção foram usados HTML5, CSS3 e JAVASCRIPT. IDE VSCode.",
+      "stargazers_count": 0,
+      "language": "Javascript, HTML, CSS"
     }
   ]
 }
