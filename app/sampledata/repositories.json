@@ -1,47 +1,47 @@
 {
   "data": [
     {
-      "id": 81223601,
-      "name": "android-DocumentCentricApps",
+      "id": 505561685,
+      "name": "App_Simulador_de_Partidas",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Dixel9",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?v=4"
       },
       "stargazers_count": 0,
-      "language": "Java",
-      "html_url": "https://github.com/EzequielMessore/android-DocumentCentricApps",
-      "description": "description"
+      "language": "Java e Kotlin",
+      "html_url": "https://github.com/Dixel9/App_Simulador_de_Partidas",
+      "description": "App Android Nativo de Simulação de Partidas. Este repositório foi organizado em algumas branchs que representam as implementações realizadas durante os seguintes conteúdos:\n\nDesenvolvimento Mobile Nativo ppara Android\nrelease/desenvolvimento-mobile-nativo-para-android\nComponentes, Layouts e UI/UX Em Apps Android\nrelease/componentes-layouts-ui-ux-em-apps-android\nImplementação do retrofit2 e implementação do Recycler view\nrelease/implementação_retrofit2_impementação_reciclerview_implementação_internet_permissions\nJava e Kotlin Juntos!? Construindo Apps Android\nrelease/java-e-kotlin-juntos-construindo-apps-android"
     },
     {
-      "id": 178429138,
-      "name": "android-guidelines",
+      "id": 518996929,
+      "name": "Business_Card_App",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Dixel9",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/android-guidelines",
-      "description": "Architecture and code guidelines we use at ribot when developing for Android",
+      "html_url": "https://github.com/Dixel9/Business_Card_App",
+      "description": "Este foi um aplicativo desenvolvido em Kotln com a Intenção de criar cartõs de visita virtual para o compartilhamento.",
       "stargazers_count": 0,
-      "language": "guideline"
+      "language": "Kotlin"
     },
     {
-      "id": 183915325,
-      "name": "android-testing",
+      "id": 511648218,
+      "name": "Soccer_News_App",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Dixel9",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/android-testing",
-      "description": "A collection of samples demonstrating different frameworks and techniques for automated testing",
-      "stargazers_count": 1,
+      "html_url": "https://github.com/Dixel9/Soccer_News_App",
+      "description": "App criado com o intuito de listas notícias do Futebol Feminino.\nO aplicativo foi desenvolvido usando java e para a coleta das informações das notícias foi simulada uma API REST em JSON via Github Pages.\n\nFuncionalidades:\nEle pode favoritar as suas notícias preferidas e compartilhar-las em qualquer aplicativo que tenha suporte de chat.",
+      "stargazers_count": 0,
       "language": "Java"
     },
     {
       "id": 378749135,
       "name": "app-repositories",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Diogo Nonato",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
       },
       "html_url": "https://github.com/EzequielMessore/app-repositories",
       "description": "empty description",
@@ -52,8 +52,8 @@
       "id": 63367755,
       "name": "avaliacao-ios",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Diogo Nonato",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
       },
       "html_url": "https://github.com/EzequielMessore/avaliacao-ios",
       "description": "empty description",
@@ -64,8 +64,8 @@
       "id": 63448974,
       "name": "avaliacao-ios-manual",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Diogo Nonato",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
       },
       "html_url": "https://github.com/EzequielMessore/avaliacao-ios-manual",
       "description": "empty description",
@@ -76,8 +76,8 @@
       "id": 263680765,
       "name": "base-redcode",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Diogo Nonato",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
       },
       "html_url": "https://github.com/EzequielMessore/base-redcode",
       "description": "empty description",
@@ -88,8 +88,8 @@
       "id": 183948239,
       "name": "BaseJetpack",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Diogo Nonato",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
       },
       "html_url": "https://github.com/EzequielMessore/BaseJetpack",
       "description": "Examples with Jetpack components",
@@ -100,8 +100,8 @@
       "id": 265040807,
       "name": "Chuck-Norris-Facts",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Diogo Nonato",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
       },
       "html_url": "https://github.com/EzequielMessore/Chuck-Norris-Facts",
       "description": "An Android client for the Chuck Norris facts API",
@@ -112,8 +112,8 @@
       "id": 369822554,
       "name": "coin-converter",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "Diogo Nonato",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102548393?s=400&u=a02472d3fea0fd8352aec0fd12c6e0a97aadb13e&v=4"
       },
       "html_url": "https://github.com/EzequielMessore/coin-converter",
       "description": "empty description",
